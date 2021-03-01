@@ -31,6 +31,7 @@ class pinyinResource {
                 }
             }
         }
+        print("11111")
         return pinyinTable
     }
     
